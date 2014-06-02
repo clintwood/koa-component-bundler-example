@@ -1,4 +1,4 @@
 koa-component-bundler
 =====================
 
-Test project using component-bundler.
+Demo project using component-bundler.

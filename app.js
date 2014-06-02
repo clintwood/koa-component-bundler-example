@@ -5,14 +5,6 @@
 // core modules
 var path = require('path');
 var koa = require('koa');
-// var etag = require('koa-etag');
-// var fresh = require('koa-fresh');
-// var serve = require('koa-static');
-// var views = require('koa-views');
-// var favicon = require('koa-favicon');
-// var router = require('koa-router');
-// var compress = require('koa-compress');
-// var respTime = require('koa-response-time');
 
 // local deps
 var bundler = require('./lib/app-bundler');
@@ -23,7 +15,6 @@ app.name = 'Koa based SPA app.';
 
 var publicDir = path.join(__dirname, 'public');
 var privateDir = path.join(__dirname, 'private');
-var productionMode = (app.env == 'production');
 
 // middlewares
 

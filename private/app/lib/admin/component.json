@@ -1,0 +1,12 @@
+{
+  "name": "admin",
+  "paths": [".."],
+  "locals": ["login"],
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

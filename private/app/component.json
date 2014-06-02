@@ -1,0 +1,5 @@
+{
+  "name": "app-bundles",
+  "paths": ["lib"],
+  "locals": ["app", "admin", "user", "task" ]
+}

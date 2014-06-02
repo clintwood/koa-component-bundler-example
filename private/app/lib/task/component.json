@@ -1,0 +1,10 @@
+{
+  "name": "task",
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

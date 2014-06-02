@@ -1,0 +1,30 @@
+{
+  "name": "koa-component-bundler",
+  "description": "Koajs component bundler.",
+  "private": true,
+  "version": "0.0.1",
+  "author": {
+    "name": "Clinton Wood",
+    "email": "clint@anotherway.co.za"
+  },
+  "dependencies": {
+    "component-resolver": "^1.1.5",
+    "component-bundler": "0",
+    "component-builder": "^1.1.5",
+
+    "co-fs": "^1.2.0",
+    "mkdirp": "^0.5.0",
+    "debug": "^0.8.1",
+
+    "koa": "^0.6.1",
+    "koa-compress": "^1.0.7",
+    "koa-etag": "^1.2.4",
+    "koa-favicon": "^1.1.0",
+    "koa-fresh": "^0.0.3",
+    "koa-response-time": "^1.0.2",
+    "koa-router": "^3.1.4",
+    "koa-views": "^2.0.3",
+
+    "koa-static": "git://github.com/clintwood/static"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "login",
+  "dependencies": {
+    "visionmedia/superagent": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "second.js"
+  ]
+}

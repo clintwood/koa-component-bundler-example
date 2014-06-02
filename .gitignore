@@ -1,0 +1,17 @@
+build
+components
+node_modules
+logs
+.symlinks
+*.log
+*.bak
+*.7z
+*.zip
+*.dll
+*.exe
+*.sublime-project
+*.sublime-workspace
+Thumbs.db
+
+##
+public

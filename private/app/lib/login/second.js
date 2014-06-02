@@ -1,0 +1,1 @@
+module.exports.secondName = 'I am login the second.';

@@ -12,8 +12,7 @@
     "component-bundler": "0",
     "component-builder": "^1.1.5",
 
-    "koa": "^0.6.1",
-    "co-fs": "^1.2.0",
+    "express": "^4.0.0",
     "mkdirp": "^0.5.0"
 
   }
